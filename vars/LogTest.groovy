@@ -1,4 +1,5 @@
 
+import static log
 class LogTest{
 
 def static Deploy() {
