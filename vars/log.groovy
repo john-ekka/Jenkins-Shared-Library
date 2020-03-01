@@ -1,10 +1,10 @@
 class log{
 
-def static info(message) {
+def info(message) {
     echo "INFO: ${message}"
 }
 
-def static warning(message) {
+def warning(message) {
     echo "WARNING: ${message}"
 }
 }
