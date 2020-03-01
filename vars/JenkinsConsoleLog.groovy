@@ -1,4 +1,3 @@
-class log{
 
 def info(message) {
     echo "INFO: ${message}"
@@ -6,5 +5,4 @@ def info(message) {
 
 def warning(message) {
     echo "WARNING: ${message}"
-}
 }
