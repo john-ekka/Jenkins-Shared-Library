@@ -1,7 +1,7 @@
 
 class LogTest{
 
-def static Deploy() {
+def Deploy() {
 
   log.info 'Starting - Invoke Deploy'	
 
