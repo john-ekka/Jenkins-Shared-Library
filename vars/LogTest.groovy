@@ -1,9 +1,10 @@
 
 class LogTest{
 
-def Deploy() {
+def static Deploy() {
 
-  log.info 'Starting - Invoke Deploy'	
+def xlog = new log()
+  xlog.info 'Starting - Invoke Deploy'	
 
     
     }
