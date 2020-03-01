@@ -3,8 +3,8 @@ class LogTest{
 
 def static Deploy() {
 
-def xlog = new log()
-  xlog.info 'Starting - Invoke Deploy'	
+//def xlog = new log()
+  log.info 'Starting - Invoke Deploy'	
 
     
     }

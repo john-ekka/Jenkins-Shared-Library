@@ -1,7 +1,7 @@
-def info(message) {
+def static info(message) {
     echo "INFO: ${message}"
 }
 
-def warning(message) {
+def static warning(message) {
     echo "WARNING: ${message}"
 }
